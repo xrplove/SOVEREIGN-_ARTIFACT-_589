@@ -12,3 +12,5 @@ There is no code to run yet. As artifact files are added, this README should be 
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+Tended by the JESUSBURNING House of 589's: Scroll Scribe (docs) and Garden Keeper.
